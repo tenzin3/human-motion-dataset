@@ -1,0 +1,4637 @@
+{
+    "playground - forward jumps, turn around": [
+        "01_01"
+    ],
+    "playground - climb": [
+        "01_02",
+        "01_04"
+    ],
+    "playground - climb, hang, swing": [
+        "01_03"
+    ],
+    "playground - climb, go under": [
+        "01_05"
+    ],
+    "playground - climb, sit, dangle legs, descend": [
+        "01_06"
+    ],
+    "playground - climb, sit, dangle legs, jump down": [
+        "01_07"
+    ],
+    "playground - climb, sit, dangle legs, rock back, lower self to ground": [
+        "01_08"
+    ],
+    "playground - climb, hang, hold self up with arms straight, swing, drop, sit, dangle legs, go under": [
+        "01_09"
+    ],
+    "playground - climb, swing, lean back, drop": [
+        "01_10"
+    ],
+    "playground - climb, hang, lean over, jump down": [
+        "01_11"
+    ],
+    "playground - climb, pull up, dangle, sit, lower self to ground": [
+        "01_12"
+    ],
+    "playground - climb, go under, jump down": [
+        "01_13"
+    ],
+    "playground - climb, jump down, dangle, legs push off against": [
+        "01_14"
+    ],
+    "walk": [
+        "02_01",
+        "02_02",
+        "05_01",
+        "06_01",
+        "07_01",
+        "07_02",
+        "07_03",
+        "07_06",
+        "07_07",
+        "07_08",
+        "07_09",
+        "07_10",
+        "07_11",
+        "08_01",
+        "08_02",
+        "08_03",
+        "08_06",
+        "08_08",
+        "08_09",
+        "08_10",
+        "10_04",
+        "12_01",
+        "12_02",
+        "12_03",
+        "16_15",
+        "16_16",
+        "16_21",
+        "16_22",
+        "16_31",
+        "16_32",
+        "16_47",
+        "16_58",
+        "26_01",
+        "27_01",
+        "29_01",
+        "32_01",
+        "32_02",
+        "35_01",
+        "35_02",
+        "35_03",
+        "35_04",
+        "35_05",
+        "35_06",
+        "35_07",
+        "35_08",
+        "35_09",
+        "35_10",
+        "35_11",
+        "35_12",
+        "35_13",
+        "35_14",
+        "35_15",
+        "35_16",
+        "35_28",
+        "35_29",
+        "35_30",
+        "35_31",
+        "35_32",
+        "35_33",
+        "35_34",
+        "38_01",
+        "38_02",
+        "39_01",
+        "39_02",
+        "39_03",
+        "39_04",
+        "39_05",
+        "39_06",
+        "39_07",
+        "39_08",
+        "39_09",
+        "39_10",
+        "39_12",
+        "39_13",
+        "39_14",
+        "43_01",
+        "45_01",
+        "46_01",
+        "49_01",
+        "55_04",
+        "81_03",
+        "111_34",
+        "111_35",
+        "113_25",
+        "114_13",
+        "114_14",
+        "114_15",
+        "120_20",
+        "133_21",
+        "133_22",
+        "133_23",
+        "141_19",
+        "141_25",
+        "143_32"
+    ],
+    "run/jog": [
+        "02_03",
+        "16_35",
+        "16_36",
+        "16_45",
+        "16_46",
+        "16_56",
+        "35_17",
+        "35_18",
+        "35_19",
+        "35_20",
+        "35_21",
+        "35_22",
+        "35_23",
+        "35_24",
+        "35_25",
+        "35_26"
+    ],
+    "jump, balance": [
+        "02_04"
+    ],
+    "punch/strike": [
+        "02_05"
+    ],
+    "bend over, scoop up, rise, lift arm": [
+        "02_06"
+    ],
+    "swordplay": [
+        "02_07",
+        "02_08",
+        "02_09"
+    ],
+    "wash self": [
+        "02_10"
+    ],
+    "walk on uneven terrain": [
+        "03_01",
+        "03_02",
+        "03_03",
+        "03_04",
+        "36_01",
+        "36_04",
+        "36_05",
+        "36_06",
+        "36_07",
+        "36_08",
+        "36_10",
+        "36_11",
+        "36_12",
+        "36_13",
+        "36_14",
+        "36_15",
+        "36_16",
+        "36_17",
+        "36_18",
+        "36_19",
+        "36_20",
+        "36_21",
+        "36_22",
+        "36_23",
+        "36_24",
+        "36_25",
+        "36_26",
+        "36_27",
+        "36_28",
+        "36_29",
+        "36_30",
+        "36_31",
+        "36_32",
+        "36_33",
+        "36_34",
+        "36_35",
+        "36_36"
+    ],
+    "dance - expressive arms, pirouette": [
+        "05_02"
+    ],
+    "dance - sideways arabesque, turn step, folding arms": [
+        "05_03"
+    ],
+    "dance - sideways arabesque, folding arms, bending back": [
+        "05_04"
+    ],
+    "dance - quasi-cou-de-pied, raised leg above hip-height, jete en tourant": [
+        "05_05"
+    ],
+    "dance - cartwheel-like start, pirouettes, jete": [
+        "05_06"
+    ],
+    "dance - small jetes, attitude/arabesque, shifted-axis pirouette, turn": [
+        "05_07"
+    ],
+    "dance - rond de jambe in the air, jete, turn": [
+        "05_08"
+    ],
+    "dance - glissade devant, glissade derriere, attitude/arabesque": [
+        "05_09",
+        "05_10"
+    ],
+    "dance - sideways steps, pirouette": [
+        "05_11"
+    ],
+    "dance - arms held high, pointe tendue a terre, upper body rotation": [
+        "05_12"
+    ],
+    "dance - small jetes, pirouette": [
+        "05_13"
+    ],
+    "dance - retire derriere, attitude/arabesque": [
+        "05_14",
+        "05_15"
+    ],
+    "dance - coupe dessous, jete en tourant": [
+        "05_16"
+    ],
+    "dance - coupe dessous, grand jete en tourant": [
+        "05_17"
+    ],
+    "dance - attitude/arabesque, jete en tourant, bending back": [
+        "05_18",
+        "05_19",
+        "05_20"
+    ],
+    "basketball - forward dribble": [
+        "06_02",
+        "06_03",
+        "06_04",
+        "06_05"
+    ],
+    "basketball - backward dribble": [
+        "06_06",
+        "06_07"
+    ],
+    "basketball - sideways dribble": [
+        "06_08",
+        "06_09"
+    ],
+    "basketball - forward dribble, 90-degree left turns": [
+        "06_10"
+    ],
+    "basketball - forward dribble, 90-degree right turns": [
+        "06_11"
+    ],
+    "basketball - forward dribble, 90-degree right turns, crossover dribble": [
+        "06_12"
+    ],
+    "basketball - low, fast free style dribble, dribble through legs": [
+        "06_13"
+    ],
+    "basketball - crossover dribble, shoot": [
+        "06_14"
+    ],
+    "basketball - dribble, shoot": [
+        "06_15"
+    ],
+    "slow walk": [
+        "07_04",
+        "07_05",
+        "08_04",
+        "37_01"
+    ],
+    "brisk walk": [
+        "07_12"
+    ],
+    "walk/stride": [
+        "08_05"
+    ],
+    "walk, exaggerated stride": [
+        "08_07"
+    ],
+    "slow walk/stride": [
+        "08_11"
+    ],
+    "run": [
+        "09_01",
+        "09_02",
+        "09_03",
+        "09_04",
+        "09_05",
+        "09_06",
+        "09_07",
+        "09_08",
+        "09_09",
+        "09_10",
+        "09_11",
+        "16_55",
+        "111_23",
+        "111_24",
+        "113_07",
+        "127_03",
+        "127_06",
+        "127_07",
+        "127_08",
+        "139_10",
+        "141_01",
+        "141_02",
+        "141_03",
+        "141_34",
+        "143_01",
+        "143_42"
+    ],
+    "navigate - walk forward, backward, sideways": [
+        "09_12"
+    ],
+    "soccer - kick ball": [
+        "10_01",
+        "10_02",
+        "10_03",
+        "10_05",
+        "10_06",
+        "11_01"
+    ],
+    "tai chi": [
+        "12_04"
+    ],
+    "sit on high stool, stand up": [
+        "13_01",
+        "13_02",
+        "13_03",
+        "14_27",
+        "14_28",
+        "15_10"
+    ],
+    "sit on stepstool, chin in hand": [
+        "13_04"
+    ],
+    "sit on stepstool, hands against chin, fidget, stand up": [
+        "13_05"
+    ],
+    "sit on stepstool, hands against chin, elbow out, stand up": [
+        "13_06"
+    ],
+    "unscrew bottlecap, drink soda": [
+        "13_07",
+        "14_05"
+    ],
+    "unscrew bottlecap, drink soda, screw on bottlecap": [
+        "13_08"
+    ],
+    "drink soda": [
+        "13_09",
+        "14_37"
+    ],
+    "jump up to grab, reach for, tiptoe": [
+        "13_10",
+        "13_12",
+        "14_07",
+        "14_08",
+        "14_09"
+    ],
+    "forward jump": [
+        "13_11",
+        "13_13",
+        "13_19",
+        "13_32",
+        "16_05",
+        "16_06",
+        "16_07",
+        "16_09",
+        "16_10"
+    ],
+    "laugh": [
+        "13_14",
+        "13_15",
+        "13_16",
+        "14_17",
+        "14_18",
+        "14_19"
+    ],
+    "boxing": [
+        "13_17",
+        "13_18",
+        "14_01",
+        "14_02",
+        "14_03",
+        "15_13",
+        "17_10",
+        "79_08",
+        "80_10"
+    ],
+    "wash windows": [
+        "13_20",
+        "13_21",
+        "13_22",
+        "14_10",
+        "14_11",
+        "14_12"
+    ],
+    "sweep floor": [
+        "13_23",
+        "13_24",
+        "13_25",
+        "14_16"
+    ],
+    "direct traffic, wave": [
+        "13_26"
+    ],
+    "direct traffic, wave, point": [
+        "13_27",
+        "13_28",
+        "14_24",
+        "14_25",
+        "14_26"
+    ],
+    "jumping jacks, side twists, bend over, squats": [
+        "13_29"
+    ],
+    "jumping jacks, side twists, squats, jog": [
+        "13_30"
+    ],
+    "jumping jacks, side twists, bend over, jog": [
+        "13_31"
+    ],
+    "climb ladder": [
+        "13_33",
+        "13_34",
+        "14_33",
+        "14_34",
+        "14_35"
+    ],
+    "climb 3 steps": [
+        "13_35",
+        "13_36",
+        "13_37",
+        "13_38",
+        "14_21",
+        "14_22",
+        "14_23"
+    ],
+    "jump": [
+        "13_39",
+        "13_40",
+        "13_41",
+        "13_42",
+        "16_01",
+        "16_02",
+        "118_01",
+        "118_02",
+        "118_03",
+        "118_04",
+        "118_05",
+        "118_06",
+        "118_07",
+        "118_08",
+        "118_09",
+        "118_10",
+        "118_11",
+        "118_12",
+        "118_13",
+        "118_14",
+        "118_15",
+        "118_16",
+        "118_17",
+        "118_18",
+        "118_19",
+        "118_20",
+        "118_21",
+        "118_22",
+        "118_23",
+        "118_24",
+        "118_25",
+        "118_26",
+        "118_27",
+        "118_28",
+        "118_29",
+        "118_30"
+    ],
+    "drink soda, screw on bottlecap": [
+        "14_04"
+    ],
+    "jumping jacks, jog, squats, side twists, stretches": [
+        "14_06",
+        "14_14"
+    ],
+    "mop floor": [
+        "14_13",
+        "14_15"
+    ],
+    "jumping jacks, side twists, reach up, bend over": [
+        "14_20"
+    ],
+    "sit on stepstool, stand up, swing legs": [
+        "14_29"
+    ],
+    "sit on stepstool, ankle on other knee, hand on chin": [
+        "14_30"
+    ],
+    "sit on stepstool, stand up": [
+        "14_31",
+        "14_32",
+        "14_36"
+    ],
+    "walk/wander": [
+        "15_01",
+        "15_03",
+        "15_09",
+        "15_14"
+    ],
+    "climb, step over, sit on, stand on stepstool": [
+        "15_02"
+    ],
+    "wash windows, paint; hand signals; dance - egyptian walk, the dive, the twist, the cabbage patch; boxing": [
+        "15_04",
+        "15_05"
+    ],
+    "lean forward, reach for": [
+        "15_06"
+    ],
+    "lean forward, tiptoe, reach for": [
+        "15_07"
+    ],
+    "hand signals - horizontally revolve forearms": [
+        "15_08"
+    ],
+    "wash windows, paint figure eights; hand signals": [
+        "15_11"
+    ],
+    "wash windows; basketball - dribble, lay-up shot, pass; throw ball; dance - egyptian walk, the dive, the twist; strew": [
+        "15_12"
+    ],
+    "high jump": [
+        "16_03",
+        "16_04"
+    ],
+    "run/jog, sudden stop": [
+        "16_08",
+        "16_57"
+    ],
+    "walk, veer left": [
+        "16_11",
+        "16_12",
+        "16_23",
+        "16_24"
+    ],
+    "walk, veer right": [
+        "16_13",
+        "16_14",
+        "16_25",
+        "16_26"
+    ],
+    "walk, 90-degree left turn": [
+        "16_17",
+        "16_18",
+        "16_27",
+        "16_28"
+    ],
+    "walk, 90-degree right turn": [
+        "16_19",
+        "16_20",
+        "16_29",
+        "16_30"
+    ],
+    "slow walk, stop": [
+        "16_33",
+        "16_34"
+    ],
+    "run/jog, veer left": [
+        "16_37",
+        "16_38"
+    ],
+    "run/jog, veer right": [
+        "16_39",
+        "16_40"
+    ],
+    "run/jog, 90-degree left turn": [
+        "16_41",
+        "16_42"
+    ],
+    "run/jog, 90-degree right turn": [
+        "16_43",
+        "16_44"
+    ],
+    "run, veer left": [
+        "16_48"
+    ],
+    "run, veer right": [
+        "16_49",
+        "16_50"
+    ],
+    "run, 90-degree left turn": [
+        "16_51",
+        "16_52"
+    ],
+    "run, 90-degree right turn": [
+        "16_53",
+        "16_54"
+    ],
+    "walk with anger, frustration": [
+        "17_01",
+        "17_02"
+    ],
+    "walk stealthily": [
+        "17_03",
+        "17_04"
+    ],
+    "walk/hobble": [
+        "17_05"
+    ],
+    "whistle, walk jauntily": [
+        "17_06",
+        "17_07"
+    ],
+    "muscular, heavyset person's walk": [
+        "17_08",
+        "17_09"
+    ],
+    "walk, shake hands (2 subjects - subject a)": [
+        "18_01",
+        "18_02"
+    ],
+    "a pulls b; b resists (2 subjects - subject a)": [
+        "18_03",
+        "18_04"
+    ],
+    "a pulls b by the elbow; b resists (2 subjects - subject a)": [
+        "18_05",
+        "18_06"
+    ],
+    "navigate busy sidewalk; a leads the way, takes b by the arm (2 subjects - subject a)": [
+        "18_07"
+    ],
+    "conversation - explain with hand gestures (2 subjects - subject a)": [
+        "18_08"
+    ],
+    "conversation - explain with hand gestures, walk (2 subjects - subject a)": [
+        "18_09"
+    ],
+    "quarrel - angry hand gestures (2 subjects - subject a)": [
+        "18_10",
+        "18_11"
+    ],
+    "friends meet, hang out; a sits, b joins a (2 subjects - subject a)": [
+        "18_12"
+    ],
+    "run, scramble for last seat (2 subjects - subject a)": [
+        "18_13",
+        "18_14"
+    ],
+    "chicken dance (2 subjects - subject a)": [
+        "18_15",
+        "20_01"
+    ],
+    "walk, shake hands (2 subjects - subject b)": [
+        "19_01",
+        "19_02"
+    ],
+    "a pulls b; b resists (2 subjects - subject b)": [
+        "19_03",
+        "19_04"
+    ],
+    "a pulls b by the elbow; b resists (2 subjects - subject b)": [
+        "19_05",
+        "19_06"
+    ],
+    "navigate busy sidewalk; a leads the way, takes b by the arm (2 subjects - subject b)": [
+        "19_07"
+    ],
+    "conversation - explain with hand gestures (2 subjects - subject b)": [
+        "19_08"
+    ],
+    "conversation - explain with hand gestures, walk (2 subjects - subject b)": [
+        "19_09"
+    ],
+    "quarrel - angry hand gestures (2 subjects - subject b)": [
+        "19_10",
+        "19_11"
+    ],
+    "friends meet, hang out; a sits, b joins a (2 subjects - subject b)": [
+        "19_12"
+    ],
+    "run, scramble for last seat (2 subjects - subject b)": [
+        "19_13",
+        "19_14"
+    ],
+    "chicken dance (2 subjects - subject b)": [
+        "19_15",
+        "21_01"
+    ],
+    "link arms, walk (2 subjects - subject a)": [
+        "20_02",
+        "20_03"
+    ],
+    "synchronized walk (2 subjects - subject a)": [
+        "20_04",
+        "20_05"
+    ],
+    "soldiers march (2 subjects - subject a)": [
+        "20_06",
+        "20_07"
+    ],
+    "zombie march (2 subjects - subject a)": [
+        "20_08"
+    ],
+    "nursery rhyme - ring around the rosey (2 subjects - subject a)": [
+        "20_09"
+    ],
+    "360-degree two-person whip (2 subjects - subject a)": [
+        "20_10"
+    ],
+    "high-five, walk (2 subjects - subject a)": [
+        "20_11"
+    ],
+    "low-five, walk (2 subjects - subject a)": [
+        "20_12"
+    ],
+    "blind man's bluff (blindfold tag) (2 subjects - subject a)": [
+        "20_13"
+    ],
+    "link arms, walk (2 subjects - subject b)": [
+        "21_02",
+        "21_03"
+    ],
+    "synchronized walk (2 subjects - subject b)": [
+        "21_04",
+        "21_05"
+    ],
+    "soldiers march (2 subjects - subject b)": [
+        "21_06",
+        "21_07"
+    ],
+    "zombie march (2 subjects - subject b)": [
+        "21_08"
+    ],
+    "nursery rhyme - ring around the rosey (2 subjects - subject b)": [
+        "21_09"
+    ],
+    "360-degree two-person whip (2 subjects - subject b)": [
+        "21_10"
+    ],
+    "high-five, walk (2 subjects - subject b)": [
+        "21_11"
+    ],
+    "low-five, walk (2 subjects - subject b)": [
+        "21_12"
+    ],
+    "blind man's bluff (blindfold tag) (2 subjects - subject b)": [
+        "21_13"
+    ],
+    "b sits; a pulls up b (2 subjects - subject a)": [
+        "22_01"
+    ],
+    "a sits; b pulls up a (2 subjects - subject a)": [
+        "22_02"
+    ],
+    "a sits, holds face in hands; b kneels, comforts a (2 subjects - subject a)": [
+        "22_03"
+    ],
+    "b comforts a, puts one hand on a's shoulder (2 subjects - subject a)": [
+        "22_04"
+    ],
+    "a comforts b, puts both hands on b's shoulders (2 subjects - subject a)": [
+        "22_05"
+    ],
+    "b comforts a, puts both hands on a's shoulders (2 subjects - subject a)": [
+        "22_06"
+    ],
+    "a comforts b, puts one hand on b's shoulder (2 subjects - subject a)": [
+        "22_07"
+    ],
+    "hold hands, swing arms, walk (2 subjects - subject a)": [
+        "22_08"
+    ],
+    "a gives b a shoulder rub; b sits, a stands (2 subjects - subject a)": [
+        "22_09"
+    ],
+    "a shelters b, a younger child, from harm (2 subjects - subject a)": [
+        "22_10"
+    ],
+    "b shelters a, a younger child, from harm (2 subjects - subject a)": [
+        "22_11"
+    ],
+    "a stumbles into b (2 subjects - subject a)": [
+        "22_12"
+    ],
+    "a passes soda to b; both drink (2 subjects - subject a)": [
+        "22_13"
+    ],
+    "alternating squats (2 subjects - subject a)": [
+        "22_14"
+    ],
+    "alternating jumping jacks (2 subjects - subject a)": [
+        "22_15"
+    ],
+    "synchronized jumping jacks (2 subjects - subject a)": [
+        "22_16"
+    ],
+    "rush up, arm wrestle (2 subjects - subject a)": [
+        "22_17"
+    ],
+    "a stares down b, leans with hands on high stool (2 subjects - subject a)": [
+        "22_18"
+    ],
+    "b stares down a, leans with hands on high stool (2 subjects - subject a)": [
+        "22_19"
+    ],
+    "violence - a picks up high stool, threatens to strike b (2 subjects - subject a)": [
+        "22_20"
+    ],
+    "conversation - b pounds high stool, points at a (2 subjects - subject a)": [
+        "22_21"
+    ],
+    "walk; b catches keys thrown by a (2 subjects - subject a)": [
+        "22_22"
+    ],
+    "walk; a catches keys thrown by b (2 subjects - subject a)": [
+        "22_23"
+    ],
+    "walk; b catches wallet thrown by a (2 subjects - subject a)": [
+        "22_24"
+    ],
+    "walk; a catches wallet thrown by b (2 subjects - subject a)": [
+        "22_25"
+    ],
+    "b sits; a pulls up b (subjects - subject b)": [
+        "23_01"
+    ],
+    "a sits; b pulls up a (subjects - subject b)": [
+        "23_02"
+    ],
+    "a sits, holds face in hands; b kneels, comforts a (2 subjects - subject b)": [
+        "23_03"
+    ],
+    "b comforts a, puts one hand on a's shoulder (2 subjects - subject b)": [
+        "23_04"
+    ],
+    "a comforts b, puts both hands on b's shoulders (2 subjects - subject b)": [
+        "23_05"
+    ],
+    "b comforts a, puts both hands on a's shoulders (2 subjects - subject b)": [
+        "23_06"
+    ],
+    "a comforts b, puts one hand on b's shoulder (2 subjects - subject b)": [
+        "23_07"
+    ],
+    "hold hands, swing arms, walk (2 subjects - subject b)": [
+        "23_08"
+    ],
+    "a gives b a shoulder rub; b sits, a stands (subjects - subject b)": [
+        "23_09"
+    ],
+    "a shelters b, a younger child, from harm (2 subjects - subject b)": [
+        "23_10"
+    ],
+    "b shelters a, a younger child, from harm (2 subjects - subject b)": [
+        "23_11"
+    ],
+    "a stumbles into b (2 subjects - subject b)": [
+        "23_12"
+    ],
+    "a passes soda to b; both drink (2 subjects - subject b)": [
+        "23_13"
+    ],
+    "alternating squats (2 subjects - subject b)": [
+        "23_14"
+    ],
+    "alternating jumping jacks (2 subjects - subject b)": [
+        "23_15"
+    ],
+    "synchronized jumping jacks (2 subjects - subject b)": [
+        "23_16"
+    ],
+    "rush up, arm wrestle (2 subjects - subject b)": [
+        "23_17"
+    ],
+    "a stares down b, leans with hands on high stool (2 subjects - subject b)": [
+        "23_18"
+    ],
+    "b stares down a, leans with hands on high stool (2 subjects - subject b)": [
+        "23_19"
+    ],
+    "violence - a picks up high stool, threatens to strike b (2 subjects - subject b)": [
+        "23_20"
+    ],
+    "conversation - b pounds high stool, points at a (2 subjects - subject b)": [
+        "23_21"
+    ],
+    "walk; b catches keys thrown by a (2 subjects - subject b)": [
+        "23_22"
+    ],
+    "walk; a catches keys thrown by b (2 subjects - subject b)": [
+        "23_23"
+    ],
+    "walk; b catches wallet thrown by a (2 subjects - subject b)": [
+        "23_24"
+    ],
+    "walk; a catches wallet thrown by b (2 subjects - subject b)": [
+        "23_25"
+    ],
+    "nursery rhyme - \"i'm a little teapot...\"": [
+        "24_01",
+        "25_01",
+        "26_03",
+        "26_04",
+        "27_03",
+        "27_07",
+        "28_02",
+        "28_06",
+        "29_03",
+        "29_08",
+        "30_02",
+        "30_08",
+        "31_02",
+        "31_06",
+        "32_04",
+        "32_08"
+    ],
+    "basketball signals": [
+        "26_02",
+        "27_02",
+        "27_06",
+        "28_01",
+        "28_05",
+        "29_02",
+        "29_07",
+        "30_01",
+        "30_07",
+        "31_01",
+        "31_05",
+        "32_03",
+        "32_07",
+        "40_12",
+        "41_10",
+        "41_11"
+    ],
+    "alaska vacation": [
+        "26_05",
+        "26_06"
+    ],
+    "nursery rhyme - cock robin": [
+        "26_07",
+        "26_08",
+        "27_05",
+        "27_10",
+        "28_04",
+        "28_08",
+        "29_06",
+        "29_10",
+        "30_05",
+        "30_06",
+        "30_10",
+        "31_04",
+        "31_08",
+        "32_06",
+        "32_10"
+    ],
+    "bend, pick up": [
+        "26_09"
+    ],
+    "bend, lift": [
+        "26_10",
+        "26_11"
+    ],
+    "alaskan vacation": [
+        "27_04",
+        "27_08",
+        "27_09",
+        "28_03",
+        "28_07",
+        "29_04",
+        "29_05",
+        "29_09",
+        "29_11",
+        "29_12",
+        "29_13",
+        "30_03",
+        "30_04",
+        "30_09",
+        "30_11",
+        "30_12",
+        "31_03",
+        "31_07",
+        "31_09",
+        "31_10",
+        "32_05",
+        "32_09",
+        "32_11",
+        "32_12"
+    ],
+    "prairie dog (human subject)": [
+        "27_11",
+        "28_09",
+        "29_14",
+        "30_13",
+        "31_11",
+        "32_13",
+        "54_07",
+        "54_15",
+        "55_14"
+    ],
+    "whale (human subject)": [
+        "28_10",
+        "29_15",
+        "30_14",
+        "31_12"
+    ],
+    "bear (human subject)": [
+        "28_11",
+        "29_16",
+        "30_15",
+        "31_13",
+        "32_14",
+        "54_02"
+    ],
+    "dog (human subject)": [
+        "28_12",
+        "29_17",
+        "30_16",
+        "31_14",
+        "32_15"
+    ],
+    "snake (human subject)": [
+        "28_13",
+        "29_24",
+        "30_21",
+        "31_20",
+        "32_21"
+    ],
+    "chicken (human subject)": [
+        "28_14",
+        "29_22",
+        "30_20",
+        "31_19",
+        "32_19",
+        "54_25",
+        "54_26",
+        "54_27",
+        "55_06",
+        "55_07"
+    ],
+    "monkey (human subject)": [
+        "28_15",
+        "29_25",
+        "30_23",
+        "31_21",
+        "32_22",
+        "54_01",
+        "54_14",
+        "54_23",
+        "55_08",
+        "55_09",
+        "55_26"
+    ],
+    "mouse (human subject)": [
+        "28_16",
+        "29_21",
+        "30_19",
+        "31_18",
+        "32_18"
+    ],
+    "cat (human subject)": [
+        "28_17",
+        "29_18",
+        "30_17",
+        "31_15",
+        "32_16"
+    ],
+    "elephant (human subject)": [
+        "28_18",
+        "29_20",
+        "30_18",
+        "31_16",
+        "32_17"
+    ],
+    "dinosaur (human subject)": [
+        "28_19",
+        "29_23"
+    ],
+    "fish (human subject)": [
+        "29_19"
+    ],
+    "tyrannosaurus rex (human subject)": [
+        "30_22",
+        "31_17",
+        "32_20"
+    ],
+    "football - throw, catch (2 subjects - subject a)": [
+        "33_01"
+    ],
+    "football - throw, catch, jump around (2 subjects - subject a)": [
+        "33_02"
+    ],
+    "football - throw, catch (2 subjects - subject b)": [
+        "34_01"
+    ],
+    "football - throw, catch, jump around (2 subjects - subject b)": [
+        "34_02"
+    ],
+    "navigate around obstacles": [
+        "35_27"
+    ],
+    "walk forward, turn around, walk back": [
+        "36_02",
+        "36_03",
+        "36_09",
+        "39_11",
+        "47_01"
+    ],
+    "jump/hop on uneven terrain": [
+        "36_37"
+    ],
+    "run around in a circle": [
+        "38_03"
+    ],
+    "walk around, frequent turns, cyclic walk along a line": [
+        "38_04"
+    ],
+    "navigate - walk forward, backward, on a diagonal": [
+        "40_02",
+        "40_03",
+        "40_04",
+        "40_05",
+        "41_04",
+        "41_05",
+        "41_06"
+    ],
+    "climb, step over, sit on, jump over stepstool": [
+        "40_06"
+    ],
+    "climb, step over, jump over stepstool": [
+        "40_07",
+        "40_08",
+        "40_09"
+    ],
+    "wait for bus": [
+        "40_10",
+        "40_11"
+    ],
+    "navigate - walk forward, backward, sideways, on a diagonal": [
+        "41_02",
+        "41_03"
+    ],
+    "climb, step over, jump over, navigate around stepstool": [
+        "41_07",
+        "41_08",
+        "41_09"
+    ],
+    "stretch - rotate head, shoulders, arms, legs": [
+        "42_01"
+    ],
+    "playground - grip bar, swing body": [
+        "43_02",
+        "43_03"
+    ],
+    "jump up and down, hop on one foot": [
+        "49_02",
+        "49_03"
+    ],
+    "run, leap": [
+        "49_04",
+        "49_05"
+    ],
+    "cartwheel": [
+        "49_06",
+        "49_07",
+        "88_07",
+        "90_02",
+        "90_03",
+        "90_04"
+    ],
+    "cartwheels": [
+        "49_08",
+        "87_05",
+        "144_01"
+    ],
+    "dance - arms held high, side arabesque": [
+        "49_09"
+    ],
+    "dance - fold in from side arabesque, curl inwards": [
+        "49_10",
+        "49_11",
+        "49_13",
+        "49_16"
+    ],
+    "dance - lean forward, bring back leg forward, arching arms": [
+        "49_12",
+        "49_14",
+        "49_17"
+    ],
+    "static dance pose - folded in, head lowered, leg bent": [
+        "49_15"
+    ],
+    "balance on one leg, outstretched arms": [
+        "49_18",
+        "49_19",
+        "49_20"
+    ],
+    "acrobatics - spin/twirl, hang on ropes": [
+        "49_21"
+    ],
+    "dance - lean back on bent leg, balance, bend elbow by ear": [
+        "49_22"
+    ],
+    "penguin (human subject)": [
+        "54_03",
+        "54_11",
+        "55_18"
+    ],
+    "pterosaur (human subject)": [
+        "54_04",
+        "54_05",
+        "54_06",
+        "55_21"
+    ],
+    "roadrunner (human subject)": [
+        "54_08",
+        "55_15"
+    ],
+    "insect/praying mantis (human subject)": [
+        "54_09",
+        "55_13"
+    ],
+    "ghost (human subject)": [
+        "54_10",
+        "55_17"
+    ],
+    "dragon (human subject)": [
+        "54_12",
+        "54_13",
+        "55_19"
+    ],
+    "superhero": [
+        "54_16",
+        "55_22"
+    ],
+    "squirrel (human subject)": [
+        "54_17",
+        "54_18"
+    ],
+    "squirrel - robotic like motion (human subject)": [
+        "54_19"
+    ],
+    "follow path, walk around obstacles": [
+        "54_20",
+        "54_21",
+        "54_22"
+    ],
+    "hummingbird (human subject)": [
+        "54_24",
+        "55_05",
+        "55_10"
+    ],
+    "dance, whirl": [
+        "55_01"
+    ],
+    "lambada dance": [
+        "55_02"
+    ],
+    "genie (human subject)": [
+        "55_03"
+    ],
+    "animal (human subject)": [
+        "55_11"
+    ],
+    "dancing bear (human subject)": [
+        "55_12"
+    ],
+    "panda (human subject)": [
+        "55_16"
+    ],
+    "hippo ballerina (human subject)": [
+        "55_20"
+    ],
+    "devil": [
+        "55_23"
+    ],
+    "various animals (human subject)": [
+        "55_24"
+    ],
+    "dancing animal (human subject)": [
+        "55_25"
+    ],
+    "dancing ant (human subject)": [
+        "55_27"
+    ],
+    "monkey/bear (human subject)": [
+        "55_28"
+    ],
+    "walk around": [
+        "56_01"
+    ],
+    "vignettes - fists up, wipe window, yawn, stretch, angrily grab, smash against wall": [
+        "56_02"
+    ],
+    "vignettes - fists up, wipe window, yawn, stretch, angrily grab, smash against wall, lift open window, throw punches, skip": [
+        "56_03"
+    ],
+    "vignettes - fists up, wipe window, grab, lift open window, throw punches, yawn, stretch, walk, jump": [
+        "56_04"
+    ],
+    "vignettes - walk, drink water, run/jog, jump, wipe window, lift open window, throw punches, yawn, stretch": [
+        "56_05"
+    ],
+    "vignettes - throw punches, grab, skip, yawn, stretch, leap, lift open window, walk, jump/bound": [
+        "56_06"
+    ],
+    "vignettes - yawn, stretch, walk, run/jog, angrily grab, jump, skip, halt": [
+        "56_07"
+    ],
+    "vignettes - lift open window, smash against wall, hop, walk, run/jog, yawn, stretch": [
+        "56_08"
+    ],
+    "salsa dance": [
+        "60_01",
+        "60_02",
+        "60_03",
+        "60_04",
+        "60_05",
+        "60_06",
+        "60_07",
+        "60_08",
+        "60_09",
+        "60_10",
+        "60_11",
+        "60_12",
+        "60_13",
+        "60_14",
+        "60_15",
+        "61_01",
+        "61_02",
+        "61_03",
+        "61_04",
+        "61_05",
+        "61_06",
+        "61_07",
+        "61_08",
+        "61_09",
+        "61_10",
+        "61_11",
+        "61_12",
+        "61_13",
+        "61_14",
+        "61_15"
+    ],
+    "bolt loosening, wrench": [
+        "62_01",
+        "62_25"
+    ],
+    "bolt tightening, wrench": [
+        "62_02"
+    ],
+    "sawing, hand saw": [
+        "62_03"
+    ],
+    "screwing": [
+        "62_04",
+        "62_05"
+    ],
+    "unscrewing": [
+        "62_06"
+    ],
+    "hammering a nail": [
+        "62_07",
+        "62_08"
+    ],
+    "pulling a nail": [
+        "62_09"
+    ],
+    "hammering sequence": [
+        "62_10"
+    ],
+    "cleaning up": [
+        "62_11"
+    ],
+    "hard days drink": [
+        "62_12"
+    ],
+    "moving a stool": [
+        "62_13"
+    ],
+    "opening umbrella": [
+        "62_14",
+        "62_15"
+    ],
+    "closing umbrella": [
+        "62_16"
+    ],
+    "opening and closing umbrella": [
+        "62_17"
+    ],
+    "closing a box": [
+        "62_18"
+    ],
+    "opening a box": [
+        "62_19"
+    ],
+    "closing, moving and opening a box": [
+        "62_20"
+    ],
+    "coiling a rope": [
+        "62_21"
+    ],
+    "dynamic calibration": [
+        "62_22"
+    ],
+    "bolt tightening": [
+        "62_23"
+    ],
+    "bolt tightening, with putting bolt in": [
+        "62_24"
+    ],
+    "swing": [
+        "63_01",
+        "64_01",
+        "64_02",
+        "64_03",
+        "64_04",
+        "64_05",
+        "64_06",
+        "64_07",
+        "64_08",
+        "64_09",
+        "64_10"
+    ],
+    "putt": [
+        "64_11",
+        "64_12",
+        "64_13",
+        "64_14",
+        "64_15"
+    ],
+    "placing tee": [
+        "64_16",
+        "64_17",
+        "64_18",
+        "64_19",
+        "64_20"
+    ],
+    "placing ball": [
+        "64_21",
+        "64_22",
+        "64_23",
+        "64_24",
+        "64_25"
+    ],
+    "picking up ball": [
+        "64_26",
+        "64_27",
+        "64_28",
+        "64_29",
+        "64_30"
+    ],
+    "walk forward": [
+        "69_01",
+        "69_02",
+        "69_03",
+        "69_04",
+        "69_05",
+        "81_02",
+        "81_17"
+    ],
+    "walk and turn (repeated)": [
+        "69_06",
+        "69_07",
+        "69_08",
+        "69_09",
+        "69_10",
+        "69_11"
+    ],
+    "walk and turn both directions (repeated)": [
+        "69_12"
+    ],
+    "walk, turn in place (repeated)": [
+        "69_13",
+        "69_14",
+        "69_15"
+    ],
+    "turn in place": [
+        "69_16",
+        "69_17"
+    ],
+    "turn in place (opposite direction)": [
+        "69_18",
+        "69_19"
+    ],
+    "walk forward 90 degree right turn": [
+        "69_20",
+        "69_21",
+        "69_22",
+        "69_23"
+    ],
+    "walk forward 90 degree left turn": [
+        "69_24",
+        "69_25",
+        "69_26",
+        "69_27"
+    ],
+    "walk forward 90 degree smooth right turn": [
+        "69_28",
+        "69_29",
+        "69_30"
+    ],
+    "walk forward 90 degree smooth left turn": [
+        "69_31",
+        "69_32",
+        "69_33"
+    ],
+    "walk backwards and turn": [
+        "69_34",
+        "69_35",
+        "69_36",
+        "69_37",
+        "69_51",
+        "69_52",
+        "69_53",
+        "69_54",
+        "69_55"
+    ],
+    "walk backwards and turn (repeated)": [
+        "69_38"
+    ],
+    "walk backward, turn in place": [
+        "69_39",
+        "69_40",
+        "69_41"
+    ],
+    "walk sideways and turn (repeated)": [
+        "69_42",
+        "69_43",
+        "69_44",
+        "69_45",
+        "69_46",
+        "69_47"
+    ],
+    "walk sideways and turn (opposite direction)": [
+        "69_48",
+        "69_49",
+        "69_56",
+        "69_57",
+        "69_58",
+        "69_62",
+        "69_63",
+        "69_64"
+    ],
+    "walk sideways and backwards": [
+        "69_50"
+    ],
+    "walk sideways and turn": [
+        "69_59",
+        "69_60",
+        "69_61",
+        "69_65",
+        "69_66",
+        "69_67"
+    ],
+    "walk forward and pick up object, set down object": [
+        "69_68"
+    ],
+    "walk forward and pick up object, carry back object": [
+        "69_69"
+    ],
+    "walk up to object, squat, pick up object, set down in another place.": [
+        "69_70"
+    ],
+    "walk up to object, squat, pick up object, set down in another place": [
+        "69_71",
+        "69_75"
+    ],
+    "walk up to object, pick up object, set down in another place": [
+        "69_72"
+    ],
+    "walk up to object, lean over, pick up object, set down in another place": [
+        "69_73",
+        "69_74"
+    ],
+    "carry 5.5lb suitcase": [
+        "70_01",
+        "70_02"
+    ],
+    "carry 19.5lb suitcase": [
+        "70_03",
+        "70_04",
+        "70_05",
+        "70_06",
+        "70_07",
+        "70_08",
+        "70_09"
+    ],
+    "carry 12.5lb suitcase": [
+        "70_10",
+        "70_11",
+        "70_12",
+        "70_13"
+    ],
+    "stiff walk": [
+        "74_01",
+        "74_02",
+        "74_20"
+    ],
+    "kick": [
+        "74_03",
+        "74_04",
+        "74_05",
+        "74_06"
+    ],
+    "lifting up": [
+        "74_07",
+        "74_08"
+    ],
+    "unknown": [
+        "74_09",
+        "76_07",
+        "80_39",
+        "80_47",
+        "80_60",
+        "80_66",
+        "80_67",
+        "80_68",
+        "81_16",
+        "94_01",
+        "94_02",
+        "94_03",
+        "94_04",
+        "94_05",
+        "94_06",
+        "94_07",
+        "94_08",
+        "94_09",
+        "94_10",
+        "94_11",
+        "94_12",
+        "94_13",
+        "94_14",
+        "94_15",
+        "94_16",
+        "103_01",
+        "104_05",
+        "104_07",
+        "104_15",
+        "104_20",
+        "104_21",
+        "104_23",
+        "104_24",
+        "104_25",
+        "104_26",
+        "104_31",
+        "104_33",
+        "104_34",
+        "104_38",
+        "104_40",
+        "104_47",
+        "104_49",
+        "104_50",
+        "104_51",
+        "104_52",
+        "107_01",
+        "107_02",
+        "107_03",
+        "107_04",
+        "107_05",
+        "107_06",
+        "107_07",
+        "107_08",
+        "107_09",
+        "107_10",
+        "107_11",
+        "107_12",
+        "107_13",
+        "107_14",
+        "108_01",
+        "108_02",
+        "108_03",
+        "108_04",
+        "108_05",
+        "108_06",
+        "108_07",
+        "108_08",
+        "108_09",
+        "108_10",
+        "108_11",
+        "108_12",
+        "108_13",
+        "108_14",
+        "108_15",
+        "108_16",
+        "108_17",
+        "108_18",
+        "108_19",
+        "108_20",
+        "108_21",
+        "108_22",
+        "108_23",
+        "108_24",
+        "108_25",
+        "108_26",
+        "108_27",
+        "108_28",
+        "122_11"
+    ],
+    "peeping": [
+        "74_10",
+        "74_11"
+    ],
+    "thinker": [
+        "74_12"
+    ],
+    "range of motion": [
+        "74_13",
+        "79_22",
+        "80_30",
+        "111_22",
+        "114_03",
+        "118_32",
+        "126_14",
+        "127_02",
+        "132_52",
+        "133_26",
+        "136_33",
+        "137_34",
+        "139_21",
+        "141_15",
+        "143_21"
+    ],
+    "slope 1": [
+        "74_14"
+    ],
+    "slope1": [
+        "74_15"
+    ],
+    "slope 2": [
+        "74_16",
+        "74_17"
+    ],
+    "slope 3": [
+        "74_18",
+        "74_19"
+    ],
+    "run jump": [
+        "75_01",
+        "75_02",
+        "75_03"
+    ],
+    "wide leg run": [
+        "75_04"
+    ],
+    "cross leg run": [
+        "75_05"
+    ],
+    "180 jump": [
+        "75_06"
+    ],
+    "angle jumps": [
+        "75_07"
+    ],
+    "360 jumps": [
+        "75_08"
+    ],
+    "360 jump": [
+        "75_09"
+    ],
+    "2 jump": [
+        "75_10",
+        "75_11"
+    ],
+    "box jump": [
+        "75_12"
+    ],
+    "hopscotch": [
+        "75_13",
+        "75_14",
+        "143_31"
+    ],
+    "long jumps": [
+        "75_15"
+    ],
+    "jump kick": [
+        "75_16",
+        "90_05",
+        "90_06",
+        "90_07"
+    ],
+    "medium sit": [
+        "75_17",
+        "75_19"
+    ],
+    "high sit": [
+        "75_18"
+    ],
+    "low sit": [
+        "75_20"
+    ],
+    "walk backwards then attack with a punch": [
+        "76_01"
+    ],
+    "walk backwards, feign a few attacks, then attack": [
+        "76_02"
+    ],
+    "avoid attacker": [
+        "76_03"
+    ],
+    "defensive guard pose": [
+        "76_04"
+    ],
+    "swatting at pesky bug": [
+        "76_05"
+    ],
+    "avoid stepping on something": [
+        "76_06"
+    ],
+    "careful stepping over things": [
+        "76_08"
+    ],
+    "walking backwards": [
+        "76_09"
+    ],
+    "turning": [
+        "76_10"
+    ],
+    "quick large steps backwards": [
+        "76_11"
+    ],
+    "looking around": [
+        "77_01",
+        "77_04",
+        "139_01",
+        "139_03",
+        "139_04",
+        "139_26",
+        "139_27"
+    ],
+    "standing": [
+        "77_02"
+    ],
+    "ready stance": [
+        "77_03"
+    ],
+    "look around with flashlight": [
+        "77_05"
+    ],
+    "searching ground": [
+        "77_06"
+    ],
+    "poking ground": [
+        "77_07"
+    ],
+    "investigating thing on ground with two hands": [
+        "77_08"
+    ],
+    "duck to avoid flying object": [
+        "77_09"
+    ],
+    "careful run": [
+        "77_10",
+        "77_11"
+    ],
+    "careful run in circle": [
+        "77_12"
+    ],
+    "careful run in figure eight": [
+        "77_13"
+    ],
+    "careful creeping": [
+        "77_14",
+        "77_15"
+    ],
+    "laying down, getting up, careful ready pose": [
+        "77_16",
+        "77_17"
+    ],
+    "laying down on back, getting up, careful ready pose": [
+        "77_18"
+    ],
+    "limping, hurt right leg": [
+        "77_19",
+        "77_20",
+        "77_22",
+        "77_23",
+        "77_24"
+    ],
+    "stretching": [
+        "77_21",
+        "83_22",
+        "114_10",
+        "114_12"
+    ],
+    "careful walk and search": [
+        "77_25",
+        "77_26",
+        "77_27"
+    ],
+    "careful walk": [
+        "77_28"
+    ],
+    "creeping walk": [
+        "77_29",
+        "77_30",
+        "77_32"
+    ],
+    "silent walk": [
+        "77_31"
+    ],
+    "creeping with limp": [
+        "77_33"
+    ],
+    "creep and pause, repeat": [
+        "77_34"
+    ],
+    "lefttightturn         cleanedgrs": [
+        "78_01"
+    ],
+    "rightwideturn            cleanedgrs": [
+        "78_02"
+    ],
+    "leftwideturn     cleanedgrs": [
+        "78_03"
+    ],
+    "supertightleft        cleanedgrs": [
+        "78_04"
+    ],
+    "supertightright         cleanedgrs": [
+        "78_05"
+    ],
+    "runningstraight       cleanedgrs": [
+        "78_06"
+    ],
+    "runningwideright       cleanedgrs": [
+        "78_07"
+    ],
+    "runningwideleft      cleanedgrs": [
+        "78_08"
+    ],
+    "runningtigherleft      cleanedgrs": [
+        "78_09"
+    ],
+    "runningtighterright      cleanedgrs": [
+        "78_10"
+    ],
+    "calibration": [
+        "78_11",
+        "102_09"
+    ],
+    "runningnoball     cleanedgrs": [
+        "78_12"
+    ],
+    "offensivemovespinleft            cleanedgrs": [
+        "78_13"
+    ],
+    "offensivemovespinleft      cleanedgrs": [
+        "78_14"
+    ],
+    "offensivemovegoright     cleanedgrs": [
+        "78_15"
+    ],
+    "offensivemovegoleft         cleanedgrs": [
+        "78_16"
+    ],
+    "offensivemovespinright             cleanedgrs": [
+        "78_17"
+    ],
+    "walkevasiveleft      cleanedgrs": [
+        "78_18"
+    ],
+    "walkevasiveright              cleanedgrs": [
+        "78_19"
+    ],
+    "feintleftmoveright            cleanedgrs": [
+        "78_20"
+    ],
+    "feintrightmoveleft      cleanedgrs": [
+        "78_21"
+    ],
+    "fakeshotbreakright     cleanedgrs": [
+        "78_22"
+    ],
+    "fakeshotbreakleft            cleanedgrs": [
+        "78_23"
+    ],
+    "defensivestraightnostop          cleanedgrs": [
+        "78_24"
+    ],
+    "defensivestraightwithstop          cleanedgrs": [
+        "78_25"
+    ],
+    "defensiverightstoptostop           cleanedgrs": [
+        "78_26"
+    ],
+    "defensiveleftstoptostop              cleanedgrs": [
+        "78_27"
+    ],
+    "defensivemovezigzag           cleanedgrs": [
+        "78_28"
+    ],
+    "defensivemovesidetoside           cleanedgrs": [
+        "78_29",
+        "78_30"
+    ],
+    "pivoting     cleanedgrs": [
+        "78_31"
+    ],
+    "sraightdrivefromstop          cleaned grs": [
+        "78_32"
+    ],
+    "rightdrive (left then right)    cleaned grs": [
+        "78_33"
+    ],
+    "leftdrive (right then left)    cleaned grs": [
+        "78_34"
+    ],
+    "righttightturn    cleanedgrs": [
+        "78_35"
+    ],
+    "chopping wood": [
+        "79_01",
+        "80_71"
+    ],
+    "swimming": [
+        "79_02",
+        "79_03",
+        "80_72"
+    ],
+    "digging": [
+        "79_04"
+    ],
+    "sewing": [
+        "79_05",
+        "80_04"
+    ],
+    "hand shake": [
+        "79_06"
+    ],
+    "lost marker": [
+        "79_07"
+    ],
+    "slicing bread": [
+        "79_09"
+    ],
+    "chopping onions": [
+        "79_10",
+        "80_02"
+    ],
+    "subject calibration": [
+        "79_11"
+    ],
+    "eating dinner": [
+        "79_12"
+    ],
+    "mixing batter": [
+        "79_13",
+        "80_16"
+    ],
+    "making dough": [
+        "79_14"
+    ],
+    "eating a sandwich": [
+        "79_15"
+    ],
+    "buying something": [
+        "79_16"
+    ],
+    "playing violin": [
+        "79_17"
+    ],
+    "playing drums": [
+        "79_18"
+    ],
+    "playing piano": [
+        "79_19"
+    ],
+    "hanging a picture": [
+        "79_20"
+    ],
+    "putting on a pull over": [
+        "79_21"
+    ],
+    "putting on a jacket": [
+        "79_23"
+    ],
+    "putting on button up sweater": [
+        "79_24"
+    ],
+    "moving heavy box": [
+        "79_25"
+    ],
+    "planting a tree": [
+        "79_26"
+    ],
+    "planting a plant": [
+        "79_27"
+    ],
+    "putting on a ball cap": [
+        "79_28"
+    ],
+    "putting on a dress": [
+        "79_29"
+    ],
+    "pushing a swing": [
+        "79_30"
+    ],
+    "writing on a chalkboard": [
+        "79_31",
+        "79_32"
+    ],
+    "chug a beer": [
+        "79_33"
+    ],
+    "fishing": [
+        "79_34",
+        "79_35",
+        "80_12"
+    ],
+    "answering the phone": [
+        "79_36"
+    ],
+    "dialing phone": [
+        "79_37",
+        "80_26"
+    ],
+    "drinking water": [
+        "79_38"
+    ],
+    "sipping martinee": [
+        "79_39"
+    ],
+    "drinking a soda": [
+        "79_40"
+    ],
+    "sipping coffee": [
+        "79_41"
+    ],
+    "eating soup": [
+        "79_42",
+        "80_33"
+    ],
+    "painting": [
+        "79_43",
+        "80_69"
+    ],
+    "washing a window": [
+        "79_44"
+    ],
+    "bear": [
+        "79_45",
+        "79_46"
+    ],
+    "chicken": [
+        "79_47",
+        "79_60",
+        "79_62",
+        "80_51",
+        "80_63"
+    ],
+    "elephant": [
+        "79_48",
+        "80_53"
+    ],
+    "monkey": [
+        "79_49",
+        "80_54"
+    ],
+    "mouse": [
+        "79_50",
+        "80_55"
+    ],
+    "chipmunk": [
+        "79_51"
+    ],
+    "prairie dog": [
+        "79_52",
+        "80_57"
+    ],
+    "dog": [
+        "79_53",
+        "80_52"
+    ],
+    "snake": [
+        "79_54",
+        "80_58"
+    ],
+    "sweeping": [
+        "79_55",
+        "80_61"
+    ],
+    "t-rex": [
+        "79_56"
+    ],
+    "fish": [
+        "79_57",
+        "80_65"
+    ],
+    "bird": [
+        "79_58",
+        "80_62"
+    ],
+    "cat": [
+        "79_59",
+        "80_64"
+    ],
+    "cow": [
+        "79_61"
+    ],
+    "tiger": [
+        "79_63"
+    ],
+    "penguin": [
+        "79_64"
+    ],
+    "horse": [
+        "79_65"
+    ],
+    "movie and trial dont match": [
+        "79_66"
+    ],
+    "no movie": [
+        "79_67"
+    ],
+    "cold": [
+        "79_68"
+    ],
+    "very happy": [
+        "79_69"
+    ],
+    "laughing": [
+        "79_70",
+        "80_44"
+    ],
+    "sad": [
+        "79_71",
+        "142_15"
+    ],
+    "crying": [
+        "79_72",
+        "80_45",
+        "80_46"
+    ],
+    "scared": [
+        "79_73",
+        "142_16",
+        "142_17"
+    ],
+    "upset": [
+        "79_74"
+    ],
+    "channel surfing": [
+        "79_75"
+    ],
+    "driving": [
+        "79_76",
+        "80_38"
+    ],
+    "vacuuming": [
+        "79_77",
+        "80_18"
+    ],
+    "taking a movie": [
+        "79_78"
+    ],
+    "putting on headphones": [
+        "79_79",
+        "80_35"
+    ],
+    "using a palm pilot": [
+        "79_80"
+    ],
+    "brushing teeth": [
+        "79_81"
+    ],
+    "putting on deoderant": [
+        "79_82"
+    ],
+    "shaving": [
+        "79_83"
+    ],
+    "combing hair": [
+        "79_84"
+    ],
+    "typing on a laptop": [
+        "79_85"
+    ],
+    "shooting bow and arrow": [
+        "79_86"
+    ],
+    "raking": [
+        "79_87"
+    ],
+    "swatting at a fly": [
+        "79_88"
+    ],
+    "holding a baby": [
+        "79_89"
+    ],
+    "washing": [
+        "79_90"
+    ],
+    "football": [
+        "79_91"
+    ],
+    "frisbee": [
+        "79_92",
+        "124_09"
+    ],
+    "weight lifting": [
+        "79_93"
+    ],
+    "flexing": [
+        "79_94"
+    ],
+    "rowing": [
+        "79_95"
+    ],
+    "shooting a gun": [
+        "79_96",
+        "80_03"
+    ],
+    "shaking hands": [
+        "80_01",
+        "80_73"
+    ],
+    "digging a hole": [
+        "80_05"
+    ],
+    "paying for something": [
+        "80_06"
+    ],
+    "hanging picture": [
+        "80_07"
+    ],
+    "picking up something": [
+        "80_08"
+    ],
+    "planting a flower": [
+        "80_09"
+    ],
+    "putting on a sweater": [
+        "80_11"
+    ],
+    "drumming": [
+        "80_13"
+    ],
+    "teaching": [
+        "80_14"
+    ],
+    "putting on a coat": [
+        "80_15"
+    ],
+    "hand mixing dough": [
+        "80_17"
+    ],
+    "pushing broom": [
+        "80_19"
+    ],
+    "planting": [
+        "80_20"
+    ],
+    "pushing swing": [
+        "80_21"
+    ],
+    "putting on a hat": [
+        "80_22"
+    ],
+    "putting on a skirt": [
+        "80_23"
+    ],
+    "eating": [
+        "80_24"
+    ],
+    "answering a phone": [
+        "80_25"
+    ],
+    "setting glass of water": [
+        "80_27"
+    ],
+    "drinking and smoking": [
+        "80_28"
+    ],
+    "chugging": [
+        "80_29"
+    ],
+    "making coffee": [
+        "80_31"
+    ],
+    "slicing": [
+        "80_32"
+    ],
+    "rake leaves": [
+        "80_34"
+    ],
+    "violin": [
+        "80_36"
+    ],
+    "tv": [
+        "80_37"
+    ],
+    "drinking from bottle": [
+        "80_40"
+    ],
+    "freezing": [
+        "80_41",
+        "80_42"
+    ],
+    "happy": [
+        "80_43",
+        "142_08"
+    ],
+    "arguing": [
+        "80_48"
+    ],
+    "gorilla": [
+        "80_49",
+        "120_02"
+    ],
+    "cleaning window": [
+        "80_50"
+    ],
+    "chip monk": [
+        "80_56"
+    ],
+    "panther": [
+        "80_59"
+    ],
+    "piano": [
+        "80_70"
+    ],
+    "fix hair and walk forward": [
+        "81_01"
+    ],
+    "walk at a brisk pace": [
+        "81_04"
+    ],
+    "push heavy object": [
+        "81_05"
+    ],
+    "push heavy box": [
+        "81_06"
+    ],
+    "pull heavy object": [
+        "81_07"
+    ],
+    "drag heavy object": [
+        "81_08",
+        "81_09"
+    ],
+    "push object that is high in air": [
+        "81_10",
+        "81_11"
+    ],
+    "jump backwards off ledge": [
+        "81_12",
+        "81_13"
+    ],
+    "climb backwards off ledge": [
+        "81_14",
+        "81_15"
+    ],
+    "adjust hair walk forward": [
+        "81_18"
+    ],
+    "static pose": [
+        "82_01",
+        "82_18",
+        "83_11"
+    ],
+    "jump off ledge": [
+        "82_02",
+        "82_03",
+        "82_04"
+    ],
+    "sitting on ground relaxing": [
+        "82_05"
+    ],
+    "pushing on heavy object": [
+        "82_06",
+        "82_07"
+    ],
+    "stand still; casual walk forward": [
+        "82_08"
+    ],
+    "confident walk forward": [
+        "82_09"
+    ],
+    "sad walk forward": [
+        "82_10"
+    ],
+    "normal walk forward": [
+        "82_11",
+        "82_13"
+    ],
+    "happy or fast walk forward": [
+        "82_12"
+    ],
+    "walk forward and slow down": [
+        "82_14"
+    ],
+    "walk forward and turn sideways": [
+        "82_15"
+    ],
+    "bang on high object": [
+        "82_16",
+        "82_17"
+    ],
+    "large sidestep to right": [
+        "83_01",
+        "83_04",
+        "83_13"
+    ],
+    "sidestep to the right and up a ledge": [
+        "83_02"
+    ],
+    "large step to a short ledge": [
+        "83_03"
+    ],
+    "very large sidestep to right": [
+        "83_05"
+    ],
+    "very large sidestep to right and down": [
+        "83_06"
+    ],
+    "short sidestep to right and down": [
+        "83_07"
+    ],
+    "medium step forward and down": [
+        "83_08",
+        "83_10"
+    ],
+    "short step forward and down": [
+        "83_09"
+    ],
+    "medium sidestep to right and down": [
+        "83_12"
+    ],
+    "short sidestep to left and down": [
+        "83_14"
+    ],
+    "short step forward": [
+        "83_15"
+    ],
+    "medium sidestep to left and down": [
+        "83_16"
+    ],
+    "medium step to left and down": [
+        "83_17"
+    ],
+    "short step to left and forward": [
+        "83_18"
+    ],
+    "medium sidestep to left": [
+        "83_19"
+    ],
+    "medium step forward": [
+        "83_20",
+        "83_44"
+    ],
+    "large step to left and forward": [
+        "83_21"
+    ],
+    "short sidestep to left and up": [
+        "83_23"
+    ],
+    "medium step to left and up": [
+        "83_24"
+    ],
+    "short step forward and up": [
+        "83_25"
+    ],
+    "medium step to left, forward, and up": [
+        "83_26"
+    ],
+    "walk forward stepping up stairs": [
+        "83_27",
+        "83_28",
+        "83_29",
+        "83_30",
+        "83_31",
+        "83_32"
+    ],
+    "sidestep to right then back to left": [
+        "83_33"
+    ],
+    "walk forward and up stairs": [
+        "83_34"
+    ],
+    "walk forward and stepping up stairs": [
+        "83_35"
+    ],
+    "walk forward turn 90 degrees left walk forward": [
+        "83_36",
+        "83_38"
+    ],
+    "walk forward turn 90 degrees right walk forward": [
+        "83_37",
+        "83_39"
+    ],
+    "hop forward": [
+        "83_40",
+        "83_41",
+        "83_45"
+    ],
+    "long jump forward": [
+        "83_42",
+        "83_43",
+        "83_47",
+        "83_50"
+    ],
+    "medium hop forward": [
+        "83_46",
+        "83_49"
+    ],
+    "short hop forward": [
+        "83_48"
+    ],
+    "hop turn 90 degrees left in air": [
+        "83_51",
+        "83_52",
+        "83_53"
+    ],
+    "hop turn 180 degrees left in air": [
+        "83_54"
+    ],
+    "medium sidestep to right": [
+        "83_55",
+        "83_68"
+    ],
+    "hop turn left 180 degrees in air": [
+        "83_56",
+        "83_57"
+    ],
+    "hop turn left 270 degrees in air": [
+        "83_58",
+        "83_59",
+        "83_60"
+    ],
+    "hop turn 360 degrees left in air": [
+        "83_61"
+    ],
+    "hop turn left 360 degrees in air": [
+        "83_62"
+    ],
+    "large sidestep to right and forward": [
+        "83_63"
+    ],
+    "hop and turn right 360 degrees in air": [
+        "83_64",
+        "83_65"
+    ],
+    "short sidestep to right": [
+        "83_66"
+    ],
+    "short sidestep to the right": [
+        "83_67"
+    ],
+    "jumptwist": [
+        "85_01",
+        "85_02"
+    ],
+    "uprightsequence": [
+        "85_03",
+        "85_11"
+    ],
+    "fancyfootwork": [
+        "85_04"
+    ],
+    "handstandkicks": [
+        "85_05"
+    ],
+    "kickflip": [
+        "85_06"
+    ],
+    "kickflipstumble": [
+        "85_07"
+    ],
+    "helicopter": [
+        "85_08"
+    ],
+    "motorcycle pose": [
+        "85_09",
+        "88_03",
+        "89_02",
+        "91_06",
+        "93_01",
+        "144_19"
+    ],
+    "endofbreakdance": [
+        "85_10"
+    ],
+    "longsequencegood": [
+        "85_12"
+    ],
+    "badstartsequnce": [
+        "85_13"
+    ],
+    "breaksequencewithflips": [
+        "85_14"
+    ],
+    "90twistsfall": [
+        "85_15"
+    ],
+    "jumps kicks and punches": [
+        "86_01"
+    ],
+    "walk, squats, run, stretch, jumps, punches, and drinking": [
+        "86_02"
+    ],
+    "walking, running, jumping, kicking, and stretching": [
+        "86_03"
+    ],
+    "walking, stretching, punching, chopping, and drinking": [
+        "86_04"
+    ],
+    "walking, jumping, jumping jacks,  jumping on one foot, punching, chopping,": [
+        "86_05"
+    ],
+    "walking, running, kicking, punching, knee kicking, and stretching": [
+        "86_06"
+    ],
+    "walking, swinging arms, stretching, jumping on one leg, and jumping": [
+        "86_07"
+    ],
+    "walking, squats, stretching, kicking, and punching": [
+        "86_08"
+    ],
+    "walking, sitting, looking, stand up": [
+        "86_09"
+    ],
+    "walk around, sit, stand up, and running": [
+        "86_10"
+    ],
+    "walking, stretching, walking and turning": [
+        "86_11"
+    ],
+    "walking, dragging, sweeping, dustpan, wipe window, and wipe mirror": [
+        "86_12"
+    ],
+    "walking around, walk up ladder, step down ladder": [
+        "86_13"
+    ],
+    "bouncing basketball, shooting basketball, dribble basketball, two handed dribble": [
+        "86_14"
+    ],
+    "walking, sitting, hand motions": [
+        "86_15"
+    ],
+    "jump with kick and spin": [
+        "87_01"
+    ],
+    "t-pose": [
+        "87_02"
+    ],
+    "backflip": [
+        "87_03",
+        "87_04",
+        "88_01"
+    ],
+    "backflips, jump onto platform, handstands, vertical pushups": [
+        "88_02"
+    ],
+    "stretches, cartwheels, flips, spin kicks, spins, and fall": [
+        "88_04"
+    ],
+    "cartwheel into backflip": [
+        "88_05"
+    ],
+    "jump and spin kick": [
+        "88_06"
+    ],
+    "crouch and flip backward on hands": [
+        "88_08"
+    ],
+    "stretch and cartwheel": [
+        "88_09"
+    ],
+    "stretch and spin": [
+        "88_10"
+    ],
+    "stretches and jumps": [
+        "88_11"
+    ],
+    "balance object on forehead": [
+        "89_01"
+    ],
+    "flip and stand on one hand": [
+        "89_03"
+    ],
+    "spins, flips, stand on one hand": [
+        "89_04"
+    ],
+    "spin upside down, handstand, flips": [
+        "89_05"
+    ],
+    "balance beam": [
+        "89_06"
+    ],
+    "bkwd summersult": [
+        "90_01"
+    ],
+    "side flip": [
+        "90_08"
+    ],
+    "flip forward onto hands and back again": [
+        "90_09"
+    ],
+    "90_10.amc": [
+        "90_10"
+    ],
+    "hand spring": [
+        "90_11"
+    ],
+    "bck flp twst fall": [
+        "90_12",
+        "90_13"
+    ],
+    "front hand flip": [
+        "90_14",
+        "90_15"
+    ],
+    "fall on face": [
+        "90_16"
+    ],
+    "bannanapeelslip": [
+        "90_17"
+    ],
+    "rugpullfall": [
+        "90_18"
+    ],
+    "monkey backflip": [
+        "90_19"
+    ],
+    "monkey sequence": [
+        "90_20",
+        "90_21"
+    ],
+    "straight walk": [
+        "90_22",
+        "90_23"
+    ],
+    "ball mount": [
+        "90_24"
+    ],
+    "fwd ball walk": [
+        "90_25",
+        "90_26"
+    ],
+    "bwk ball walk": [
+        "90_27"
+    ],
+    "breakdance": [
+        "90_28"
+    ],
+    "sequesnce": [
+        "90_29"
+    ],
+    "russian dance": [
+        "90_30",
+        "90_31"
+    ],
+    "moonwalk": [
+        "90_32"
+    ],
+    "arm up wide leg roll": [
+        "90_33"
+    ],
+    "wide leg roll": [
+        "90_34",
+        "90_35",
+        "90_36"
+    ],
+    "walk digital figure eight": [
+        "91_01"
+    ],
+    "walkstraight": [
+        "91_02",
+        "91_36",
+        "105_02",
+        "105_36"
+    ],
+    "walk figure eight": [
+        "91_03"
+    ],
+    "walking": [
+        "91_04",
+        "139_28",
+        "139_30",
+        "144_33"
+    ],
+    "mummy walk": [
+        "91_05"
+    ],
+    "mummy8": [
+        "91_07",
+        "105_07"
+    ],
+    "mummydigital8": [
+        "91_08",
+        "105_08"
+    ],
+    "drunkwalk": [
+        "91_09",
+        "105_09"
+    ],
+    "slowwalk": [
+        "91_10",
+        "91_27",
+        "104_35",
+        "105_10",
+        "105_27"
+    ],
+    "lavishwalk": [
+        "91_11",
+        "105_11"
+    ],
+    "toocoolwalk": [
+        "91_12",
+        "105_12"
+    ],
+    "sadwalk": [
+        "91_13",
+        "105_13"
+    ],
+    "depressedwalk": [
+        "91_14",
+        "105_14"
+    ],
+    "clumsywalk": [
+        "91_15",
+        "105_15"
+    ],
+    "limp": [
+        "91_16",
+        "105_16"
+    ],
+    "quickwalk": [
+        "91_17",
+        "105_17"
+    ],
+    "carefulwalk lookingaround": [
+        "91_18",
+        "105_18"
+    ],
+    "march": [
+        "91_19",
+        "105_19",
+        "111_13",
+        "113_09"
+    ],
+    "shywalk": [
+        "91_20",
+        "105_20"
+    ],
+    "acheywalk": [
+        "91_21",
+        "105_21"
+    ],
+    "casualquickwalk": [
+        "91_22",
+        "105_22"
+    ],
+    "coolwalk": [
+        "91_23",
+        "105_23"
+    ],
+    "hurtlegwalk": [
+        "91_24",
+        "105_24"
+    ],
+    "dragbadlegwalk": [
+        "91_25",
+        "105_25"
+    ],
+    "hurtstomachwalk": [
+        "91_26",
+        "105_26"
+    ],
+    "ghettowalk": [
+        "91_28",
+        "105_28"
+    ],
+    "normalwalk": [
+        "91_29",
+        "91_31",
+        "91_34",
+        "105_29",
+        "105_31",
+        "105_34"
+    ],
+    "sexywalk": [
+        "91_30",
+        "105_30"
+    ],
+    "scaredwalk": [
+        "91_32",
+        "105_32"
+    ],
+    "machowalk": [
+        "91_33",
+        "105_33"
+    ],
+    "trafficwalk": [
+        "91_35",
+        "105_35"
+    ],
+    "forward": [
+        "91_37",
+        "105_37"
+    ],
+    "smallforward": [
+        "91_38",
+        "105_38"
+    ],
+    "jumpforward": [
+        "91_39",
+        "91_40",
+        "91_41",
+        "91_42",
+        "91_45",
+        "105_39",
+        "105_40",
+        "105_41",
+        "105_42",
+        "105_45"
+    ],
+    "jumpsmallforward": [
+        "91_43",
+        "91_44",
+        "105_43",
+        "105_44"
+    ],
+    "jump turn": [
+        "91_46",
+        "91_47",
+        "91_49",
+        "105_46",
+        "105_47",
+        "105_49"
+    ],
+    "jumpturn": [
+        "91_48",
+        "91_50",
+        "105_48",
+        "105_50"
+    ],
+    "furtherjumpturn": [
+        "91_51",
+        "105_51"
+    ],
+    "smalljumpturn": [
+        "91_52",
+        "105_52"
+    ],
+    "180 degree jump": [
+        "91_53"
+    ],
+    "180": [
+        "91_54",
+        "91_55",
+        "105_53",
+        "105_54",
+        "105_55"
+    ],
+    "90": [
+        "91_56",
+        "105_56"
+    ],
+    "walkforward": [
+        "91_57",
+        "105_57"
+    ],
+    "270": [
+        "91_58",
+        "105_58"
+    ],
+    "360 smallstumble": [
+        "91_59",
+        "105_59"
+    ],
+    "360": [
+        "91_60",
+        "91_61",
+        "105_60",
+        "105_61"
+    ],
+    "walkfigure8": [
+        "91_62",
+        "105_62"
+    ],
+    "rangeofmotion": [
+        "93_02"
+    ],
+    "charleston_01": [
+        "93_03",
+        "103_03"
+    ],
+    "charleston_side_by_side_female": [
+        "93_04",
+        "103_04"
+    ],
+    "charleston_side_by_side_male": [
+        "93_05",
+        "103_05"
+    ],
+    "lindyhop2": [
+        "93_06",
+        "103_06"
+    ],
+    "casual walk": [
+        "93_07",
+        "103_07"
+    ],
+    "xtra fancy charleston": [
+        "93_08",
+        "103_08"
+    ],
+    "rightwideturn": [
+        "102_01"
+    ],
+    "leftwideturn": [
+        "102_02"
+    ],
+    "supertightleft": [
+        "102_03"
+    ],
+    "supertightright": [
+        "102_04"
+    ],
+    "runningstraight": [
+        "102_05"
+    ],
+    "runningwideright": [
+        "102_06"
+    ],
+    "runningwideleft": [
+        "102_07"
+    ],
+    "runningtighterright": [
+        "102_08"
+    ],
+    "runningnoball": [
+        "102_10"
+    ],
+    "offensivemovespinleft": [
+        "102_11",
+        "102_12"
+    ],
+    "offensivemovegoright": [
+        "102_13"
+    ],
+    "offensivemovegoleft": [
+        "102_14"
+    ],
+    "offensivemovespinright": [
+        "102_15"
+    ],
+    "walkevasiveleft": [
+        "102_16"
+    ],
+    "walkevasiveright": [
+        "102_17"
+    ],
+    "feintleftmoveright": [
+        "102_18"
+    ],
+    "feintrightmoveleft": [
+        "102_19"
+    ],
+    "fakeshotbreakright": [
+        "102_20"
+    ],
+    "fakeshotbreakleft": [
+        "102_21"
+    ],
+    "defensivestraightnostop": [
+        "102_22"
+    ],
+    "defensivestraightwithstop": [
+        "102_23"
+    ],
+    "defensiverightstoptostop": [
+        "102_24"
+    ],
+    "defensiveleftstoptostop": [
+        "102_25"
+    ],
+    "defensivemovezigzag": [
+        "102_26"
+    ],
+    "defensivemovesidetoside": [
+        "102_27",
+        "102_28"
+    ],
+    "pivoting": [
+        "102_29"
+    ],
+    "sraightdrivefromstop": [
+        "102_30"
+    ],
+    "rightdrive (left then right)": [
+        "102_31"
+    ],
+    "leftdrive (right then left)": [
+        "102_32"
+    ],
+    "righttightturn": [
+        "102_33"
+    ],
+    "rangeofmotion_01": [
+        "103_02"
+    ],
+    "jogthrough": [
+        "104_01",
+        "104_04"
+    ],
+    "neutral male walk, exact footfalls": [
+        "104_02"
+    ],
+    "frankenstein male walk, exact footfalls": [
+        "104_03"
+    ],
+    "startjog": [
+        "104_06",
+        "104_08"
+    ],
+    "jogstop": [
+        "104_09",
+        "104_10"
+    ],
+    "happygoluckwalk": [
+        "104_11"
+    ],
+    "excitedwalk": [
+        "104_12"
+    ],
+    "stumblewalk": [
+        "104_13"
+    ],
+    "happystartwalk": [
+        "104_14"
+    ],
+    "spasticwalk": [
+        "104_16"
+    ],
+    "spasticstop": [
+        "104_17",
+        "104_18"
+    ],
+    "casualwalk": [
+        "104_19"
+    ],
+    "regularwalk8": [
+        "104_22"
+    ],
+    "regularwalkrightangleturns": [
+        "104_27"
+    ],
+    "sternwalk": [
+        "104_28",
+        "104_29"
+    ],
+    "sternwalk8": [
+        "104_30"
+    ],
+    "sternwalkrightangleturns": [
+        "104_32"
+    ],
+    "slowwalk8": [
+        "104_36"
+    ],
+    "runthrough": [
+        "104_37",
+        "104_48"
+    ],
+    "slowwalkrightangleturns": [
+        "104_39"
+    ],
+    "zombiewalk": [
+        "104_41"
+    ],
+    "zombiewalk8": [
+        "104_42"
+    ],
+    "zombiewalkrightangleturns": [
+        "104_43"
+    ],
+    "attitudewalk": [
+        "104_44"
+    ],
+    "attitudewalk8": [
+        "104_45"
+    ],
+    "attitudewalkrightangleturns": [
+        "104_46"
+    ],
+    "startrun": [
+        "104_53",
+        "104_54",
+        "104_55"
+    ],
+    "runstop": [
+        "104_56",
+        "104_57"
+    ],
+    "walkdigital8": [
+        "105_01"
+    ],
+    "walk8": [
+        "105_03"
+    ],
+    "digital8": [
+        "105_04"
+    ],
+    "mummywalk": [
+        "105_05"
+    ],
+    "motorcyclepose": [
+        "105_06"
+    ],
+    "clean": [
+        "106_01",
+        "106_02",
+        "106_03",
+        "106_04",
+        "106_05",
+        "106_06",
+        "106_07",
+        "106_08",
+        "106_09",
+        "106_10",
+        "106_11",
+        "106_12",
+        "106_13",
+        "106_14",
+        "106_16",
+        "106_17",
+        "106_18",
+        "106_19",
+        "106_20",
+        "106_22",
+        "106_23",
+        "106_24",
+        "106_25",
+        "106_26",
+        "106_27",
+        "106_28",
+        "106_29",
+        "106_30",
+        "106_31",
+        "106_32",
+        "106_33",
+        "106_34",
+        "122_01",
+        "122_02",
+        "122_03",
+        "122_04",
+        "122_05",
+        "122_06",
+        "122_07",
+        "122_08",
+        "122_09",
+        "122_10",
+        "122_12",
+        "122_13",
+        "122_14",
+        "122_15",
+        "122_16",
+        "122_17",
+        "122_18",
+        "122_19",
+        "122_20",
+        "122_21",
+        "122_22",
+        "122_23",
+        "122_24",
+        "122_25",
+        "122_26",
+        "122_27",
+        "122_28",
+        "122_29",
+        "122_30",
+        "122_31",
+        "122_32",
+        "122_33",
+        "122_34",
+        "122_35",
+        "122_36",
+        "122_37",
+        "122_38",
+        "122_39",
+        "122_40",
+        "122_41",
+        "122_42",
+        "122_43",
+        "122_44",
+        "122_45",
+        "122_46",
+        "122_47",
+        "122_48",
+        "122_49",
+        "122_50",
+        "122_51",
+        "122_52",
+        "122_53",
+        "122_54",
+        "122_55",
+        "122_56",
+        "122_57",
+        "122_59",
+        "122_60",
+        "122_61",
+        "122_62",
+        "122_63",
+        "122_64",
+        "122_65",
+        "122_66",
+        "122_67",
+        "122_68"
+    ],
+    "106_15.amc": [
+        "106_15"
+    ],
+    "bad amc": [
+        "106_21"
+    ],
+    "walk backwards": [
+        "111_01",
+        "113_01",
+        "132_13",
+        "141_31",
+        "143_39"
+    ],
+    "bow": [
+        "111_02",
+        "113_02"
+    ],
+    "crawling": [
+        "111_03"
+    ],
+    "curtsey": [
+        "111_04",
+        "113_03",
+        "141_26"
+    ],
+    "dance": [
+        "111_05",
+        "113_04"
+    ],
+    "get up from floor": [
+        "111_06",
+        "111_07",
+        "111_08"
+    ],
+    "get up from chair": [
+        "111_09",
+        "111_10",
+        "111_11"
+    ],
+    "lay down": [
+        "111_12"
+    ],
+    "mope": [
+        "111_14",
+        "141_27"
+    ],
+    "motorcycle": [
+        "111_15",
+        "113_11",
+        "114_01",
+        "118_31",
+        "124_10",
+        "125_07",
+        "126_13",
+        "127_01",
+        "128_01",
+        "132_38",
+        "133_25",
+        "134_04",
+        "135_08",
+        "136_19",
+        "137_25",
+        "140_05"
+    ],
+    "peekaboo": [
+        "111_16",
+        "113_12"
+    ],
+    "pick up": [
+        "111_17",
+        "111_18"
+    ],
+    "punch kick": [
+        "111_19"
+    ],
+    "ring around the rosie": [
+        "111_20",
+        "113_14"
+    ],
+    "roll over": [
+        "111_21"
+    ],
+    "shrug": [
+        "111_25",
+        "113_16",
+        "141_21"
+    ],
+    "walk sideways": [
+        "111_26",
+        "113_18",
+        "143_40"
+    ],
+    "walking up stairs": [
+        "111_27"
+    ],
+    "standing still": [
+        "111_28",
+        "113_21"
+    ],
+    "stepping over": [
+        "111_29",
+        "111_30"
+    ],
+    "stepping up / stepping down": [
+        "111_31"
+    ],
+    "stretch and yawn": [
+        "111_32",
+        "113_23",
+        "141_13",
+        "143_30"
+    ],
+    "throwing": [
+        "111_33"
+    ],
+    "walk and carry": [
+        "111_36",
+        "113_26"
+    ],
+    "wave": [
+        "111_37",
+        "113_27"
+    ],
+    "yoga": [
+        "111_38",
+        "111_39",
+        "111_40",
+        "111_41",
+        "113_28",
+        "113_29"
+    ],
+    "walk digital 8": [
+        "113_05",
+        "143_38"
+    ],
+    "walk figure 8": [
+        "113_06"
+    ],
+    "lay down and get up": [
+        "113_08"
+    ],
+    "walk, mope around": [
+        "113_10"
+    ],
+    "punch and kick": [
+        "113_13",
+        "141_14"
+    ],
+    "sit in chair and get up": [
+        "113_15"
+    ],
+    "walk sideway": [
+        "113_17"
+    ],
+    "walking up and down stairs": [
+        "113_19",
+        "114_07",
+        "114_08",
+        "114_09"
+    ],
+    "walk up and down stairs": [
+        "113_20"
+    ],
+    "step over": [
+        "113_22",
+        "141_09"
+    ],
+    "throw": [
+        "113_24"
+    ],
+    "getting up from laying down": [
+        "114_02"
+    ],
+    "getting up from chair": [
+        "114_04",
+        "114_06"
+    ],
+    "sitting in chair": [
+        "114_05"
+    ],
+    "laying down and getting up": [
+        "114_11"
+    ],
+    "sit down and stretch": [
+        "114_16"
+    ],
+    "pick up box, bend from waist": [
+        "115_01"
+    ],
+    "pick box up, bend from waist": [
+        "115_02",
+        "115_03",
+        "115_04",
+        "115_05",
+        "115_10"
+    ],
+    "picking box up, bending knees": [
+        "115_06",
+        "115_07",
+        "115_08",
+        "115_09"
+    ],
+    "alien turn": [
+        "120_01"
+    ],
+    "mickey cast spell": [
+        "120_03"
+    ],
+    "mickey conducting": [
+        "120_04"
+    ],
+    "mickey dance": [
+        "120_05",
+        "120_06",
+        "120_07"
+    ],
+    "mickey sneaky walk": [
+        "120_08"
+    ],
+    "mickey sneaking walk": [
+        "120_09",
+        "120_10",
+        "120_11",
+        "120_12",
+        "120_13",
+        "120_14"
+    ],
+    "mickey surprised": [
+        "120_15",
+        "120_16"
+    ],
+    "mickey walk": [
+        "120_17",
+        "120_18"
+    ],
+    "walk slow": [
+        "120_19",
+        "132_45",
+        "132_46",
+        "132_47",
+        "132_48",
+        "132_49",
+        "132_50"
+    ],
+    "robot": [
+        "120_21"
+    ],
+    "zombie": [
+        "120_22"
+    ],
+    "cleaned": [
+        "122_58"
+    ],
+    "15.5 lbs": [
+        "123_01",
+        "123_02",
+        "123_11",
+        "123_12",
+        "123_13"
+    ],
+    "19.5lb": [
+        "123_03"
+    ],
+    "19.5 lbs": [
+        "123_04",
+        "123_05",
+        "123_06"
+    ],
+    "12.5lb": [
+        "123_07",
+        "123_10"
+    ],
+    "12.5 lbs": [
+        "123_08",
+        "123_09"
+    ],
+    "baseball pitch": [
+        "124_01",
+        "124_02"
+    ],
+    "basketball shoot": [
+        "124_03"
+    ],
+    "basketball free throw": [
+        "124_04"
+    ],
+    "basketball jump shot": [
+        "124_05"
+    ],
+    "basketball lay up": [
+        "124_06"
+    ],
+    "baseball swing": [
+        "124_07"
+    ],
+    "baseball bunt": [
+        "124_08"
+    ],
+    "2 foot jump": [
+        "124_11"
+    ],
+    "underhand toss": [
+        "124_12"
+    ],
+    "underhand fast pitch": [
+        "124_13"
+    ],
+    "breast stroke": [
+        "125_01",
+        "125_02",
+        "125_04",
+        "126_03",
+        "126_04",
+        "126_05"
+    ],
+    "break stroke": [
+        "125_03"
+    ],
+    "butterfly": [
+        "125_05"
+    ],
+    "free style": [
+        "125_06",
+        "126_10",
+        "126_11",
+        "126_12"
+    ],
+    "back stroke": [
+        "126_01",
+        "126_02"
+    ],
+    "fly stroke": [
+        "126_06",
+        "126_07",
+        "126_08",
+        "126_09"
+    ],
+    "walk to run": [
+        "127_04"
+    ],
+    "run to quick stop": [
+        "127_05"
+    ],
+    "run right": [
+        "127_09",
+        "127_10",
+        "128_03"
+    ],
+    "run left": [
+        "127_11",
+        "127_12",
+        "128_02"
+    ],
+    "run side step left": [
+        "127_13"
+    ],
+    "run side step right": [
+        "127_14"
+    ],
+    "run turn left": [
+        "127_15"
+    ],
+    "run turn right": [
+        "127_16"
+    ],
+    "run stop run": [
+        "127_17",
+        "127_18",
+        "128_05",
+        "128_06",
+        "128_07",
+        "128_08"
+    ],
+    "run quick stop run": [
+        "127_19",
+        "127_20"
+    ],
+    "run jump stop run": [
+        "127_21",
+        "127_22"
+    ],
+    "run dive over roll run": [
+        "127_23",
+        "127_24",
+        "128_10",
+        "128_11"
+    ],
+    "run jump over": [
+        "127_25",
+        "127_26",
+        "127_27",
+        "127_28"
+    ],
+    "run duck underneath": [
+        "127_29",
+        "127_30",
+        "127_31",
+        "127_32",
+        "127_37",
+        "127_38",
+        "128_04"
+    ],
+    "run over": [
+        "127_33",
+        "127_34",
+        "127_35",
+        "127_36"
+    ],
+    "run roll underneath": [
+        "128_09"
+    ],
+    "start walk stop": [
+        "131_01",
+        "131_02"
+    ],
+    "start hop stop": [
+        "131_03",
+        "131_04"
+    ],
+    "start duck underneath stop": [
+        "131_05",
+        "131_06"
+    ],
+    "jump stop": [
+        "131_07",
+        "131_08"
+    ],
+    "start walk left": [
+        "131_09",
+        "131_10",
+        "131_11"
+    ],
+    "start walk right": [
+        "131_12",
+        "131_13",
+        "131_14"
+    ],
+    "walk with arms out,  balancing": [
+        "132_01",
+        "132_02",
+        "132_03",
+        "132_04",
+        "132_05",
+        "132_06",
+        "132_07",
+        "132_08",
+        "132_09",
+        "132_10",
+        "132_11",
+        "132_12"
+    ],
+    "walk duck footed": [
+        "132_14"
+    ],
+    "walk with knees bent": [
+        "132_15"
+    ],
+    "walk crossover": [
+        "132_16"
+    ],
+    "walk fast": [
+        "132_17",
+        "132_18",
+        "132_19",
+        "132_20",
+        "132_21",
+        "132_22"
+    ],
+    "hop on left foot": [
+        "132_23",
+        "132_24",
+        "132_25",
+        "132_26",
+        "132_27",
+        "132_28"
+    ],
+    "bouncy walk": [
+        "132_29",
+        "132_30",
+        "132_31",
+        "132_32",
+        "132_33",
+        "132_34"
+    ],
+    "walk leaning to the right": [
+        "132_35",
+        "132_36"
+    ],
+    "marching": [
+        "132_37",
+        "138_01",
+        "138_02",
+        "138_03",
+        "138_04",
+        "138_05",
+        "138_06",
+        "138_07",
+        "138_08",
+        "138_09",
+        "138_10",
+        "142_11"
+    ],
+    "pigeon toed walking": [
+        "132_39"
+    ],
+    "walk with stiff arms": [
+        "132_40",
+        "132_41"
+    ],
+    "walk swinging shoulders": [
+        "132_42",
+        "132_43",
+        "132_44"
+    ],
+    "tpose": [
+        "132_51"
+    ],
+    "walk with legs apart": [
+        "132_53"
+    ],
+    "walk with wild arms": [
+        "132_54"
+    ],
+    "walk with wild legs": [
+        "132_55",
+        "132_56"
+    ],
+    "walk crawl": [
+        "133_01",
+        "133_02"
+    ],
+    "walk jump": [
+        "133_03",
+        "133_04",
+        "133_05",
+        "133_06",
+        "133_07"
+    ],
+    "stretch walk": [
+        "133_08",
+        "133_09",
+        "133_10"
+    ],
+    "walk stop walk": [
+        "133_11",
+        "133_12",
+        "133_13"
+    ],
+    "walk left": [
+        "133_14",
+        "133_15",
+        "133_16"
+    ],
+    "walk right": [
+        "133_17",
+        "133_18",
+        "133_19",
+        "133_20"
+    ],
+    "walk zigzag": [
+        "133_24"
+    ],
+    "duck under": [
+        "134_01"
+    ],
+    "go forward": [
+        "134_02"
+    ],
+    "lean turn right": [
+        "134_03"
+    ],
+    "pump jump": [
+        "134_05"
+    ],
+    "push turn left": [
+        "134_06",
+        "134_07"
+    ],
+    "push turn right": [
+        "134_08",
+        "134_09"
+    ],
+    "start": [
+        "134_10",
+        "134_11"
+    ],
+    "stop and go": [
+        "134_12",
+        "134_13"
+    ],
+    "stop ang go": [
+        "134_14"
+    ],
+    "lean turn left": [
+        "134_15"
+    ],
+    "bassai": [
+        "135_01"
+    ],
+    "empi": [
+        "135_02",
+        "135_03"
+    ],
+    "front kick": [
+        "135_04"
+    ],
+    "gedanbarai": [
+        "135_05"
+    ],
+    "heiansyodan": [
+        "135_06"
+    ],
+    "mawashigeri": [
+        "135_07"
+    ],
+    "oiduki": [
+        "135_09"
+    ],
+    "syutouuke": [
+        "135_10"
+    ],
+    "yokogeri": [
+        "135_11"
+    ],
+    "walk bent forward": [
+        "136_01",
+        "136_02"
+    ],
+    "walk backwards bent forward": [
+        "136_03",
+        "136_04"
+    ],
+    "walk on toes bent forward": [
+        "136_05",
+        "136_06"
+    ],
+    "walk backward on toes bent forward": [
+        "136_07",
+        "136_08"
+    ],
+    "walk crouched": [
+        "136_09",
+        "136_10"
+    ],
+    "walk backwards crouched": [
+        "136_11",
+        "136_12"
+    ],
+    "walk on toes crouched": [
+        "136_13",
+        "136_14"
+    ],
+    "walk backwards on toes crouched": [
+        "136_15",
+        "136_16"
+    ],
+    "flamingo, lift legs high": [
+        "136_17",
+        "136_18"
+    ],
+    "normal walk": [
+        "136_20",
+        "136_21",
+        "136_22",
+        "136_23",
+        "136_24",
+        "137_29"
+    ],
+    "normal walk backwards": [
+        "136_25",
+        "136_26"
+    ],
+    "walk on toes": [
+        "136_27",
+        "136_28"
+    ],
+    "walk backwards on toes": [
+        "136_29",
+        "136_30"
+    ],
+    "quail, quick little steps": [
+        "136_31",
+        "136_32"
+    ],
+    "cat coffee mug": [
+        "137_01"
+    ],
+    "cat pick up": [
+        "137_02"
+    ],
+    "cat wait": [
+        "137_03"
+    ],
+    "cat walk": [
+        "137_04"
+    ],
+    "chicken coffee mug": [
+        "137_05"
+    ],
+    "chicken pick up": [
+        "137_06"
+    ],
+    "chicken wait": [
+        "137_07"
+    ],
+    "chicken walk": [
+        "137_08"
+    ],
+    "dinosaur coffee mug": [
+        "137_09"
+    ],
+    "dinosaur pick up": [
+        "137_10"
+    ],
+    "dinosaur wait": [
+        "137_11"
+    ],
+    "dinosaur walk": [
+        "137_12"
+    ],
+    "drunk coffee mug": [
+        "137_13"
+    ],
+    "drunk pick up": [
+        "137_14"
+    ],
+    "drunk wait": [
+        "137_15"
+    ],
+    "drunk walk": [
+        "137_16"
+    ],
+    "gangly teen coffee mug": [
+        "137_17"
+    ],
+    "gangly teen pick up": [
+        "137_18"
+    ],
+    "gangly teen wait": [
+        "137_19"
+    ],
+    "gangly teen walk": [
+        "137_20"
+    ],
+    "graceful lady coffee mug": [
+        "137_21"
+    ],
+    "graceful lady pick up": [
+        "137_22"
+    ],
+    "graceful lady wait": [
+        "137_23"
+    ],
+    "graceful lady walk": [
+        "137_24"
+    ],
+    "normal coffee mug": [
+        "137_26"
+    ],
+    "normal pick up": [
+        "137_27"
+    ],
+    "normal wait": [
+        "137_28"
+    ],
+    "old man coffee mug": [
+        "137_30"
+    ],
+    "old man pick up": [
+        "137_31"
+    ],
+    "old man wait": [
+        "137_32"
+    ],
+    "old man walk": [
+        "137_33"
+    ],
+    "sexy lady coffee mug": [
+        "137_35"
+    ],
+    "sexy lady pick up": [
+        "137_36"
+    ],
+    "sexy lady wait": [
+        "137_37"
+    ],
+    "sexy lady walk": [
+        "137_38"
+    ],
+    "strong man coffee mug": [
+        "137_39"
+    ],
+    "strong man pick up": [
+        "137_40"
+    ],
+    "strong man wait": [
+        "137_41"
+    ],
+    "strong man walk": [
+        "137_42"
+    ],
+    "story": [
+        "138_11",
+        "138_12",
+        "138_13",
+        "138_14",
+        "138_15",
+        "138_16",
+        "138_17",
+        "138_18",
+        "138_19",
+        "138_20",
+        "138_21",
+        "138_22",
+        "138_23",
+        "138_24",
+        "138_25",
+        "138_26",
+        "138_27",
+        "138_28",
+        "138_29",
+        "138_30",
+        "138_31",
+        "138_32",
+        "138_33",
+        "138_34",
+        "138_35",
+        "138_36",
+        "138_37",
+        "138_38",
+        "138_39",
+        "138_40",
+        "138_41",
+        "138_42",
+        "138_43",
+        "138_44",
+        "138_45",
+        "138_46",
+        "138_47",
+        "138_48",
+        "138_49",
+        "138_50",
+        "138_51",
+        "138_52",
+        "138_53",
+        "138_54",
+        "138_55"
+    ],
+    "shifting weight": [
+        "139_02"
+    ],
+    "pulling a gun": [
+        "139_05"
+    ],
+    "poking around on the ground": [
+        "139_06",
+        "139_07",
+        "139_08"
+    ],
+    "ducking": [
+        "139_09"
+    ],
+    "run to sneak": [
+        "139_11"
+    ],
+    "run in circles": [
+        "139_12",
+        "139_13"
+    ],
+    "sneak sideways": [
+        "139_14",
+        "139_15"
+    ],
+    "get up from ground": [
+        "139_16",
+        "139_17"
+    ],
+    "get up from ground laying on back": [
+        "139_18",
+        "140_08",
+        "140_09"
+    ],
+    "walk wounded leg": [
+        "139_19",
+        "139_20",
+        "139_22",
+        "139_23",
+        "139_24"
+    ],
+    "giving directions": [
+        "139_25"
+    ],
+    "sneaking": [
+        "139_29",
+        "139_31",
+        "139_32",
+        "139_33",
+        "139_34"
+    ],
+    "get up face down": [
+        "140_01",
+        "140_02"
+    ],
+    "get up laying on side": [
+        "140_03",
+        "140_04"
+    ],
+    "idle": [
+        "140_06",
+        "140_07"
+    ],
+    "jump distances": [
+        "141_04"
+    ],
+    "jump sideways": [
+        "141_05"
+    ],
+    "jump twist": [
+        "141_06"
+    ],
+    "walk up and over": [
+        "141_07"
+    ],
+    "steop on walk down": [
+        "141_08"
+    ],
+    "toss and catch": [
+        "141_10"
+    ],
+    "throw and catch": [
+        "141_11"
+    ],
+    "dance, twist": [
+        "141_12"
+    ],
+    "wave hello": [
+        "141_16"
+    ],
+    "sit on stool": [
+        "141_17"
+    ],
+    "peek a boo": [
+        "141_18",
+        "143_33"
+    ],
+    "waiting": [
+        "141_20"
+    ],
+    "high five": [
+        "141_22"
+    ],
+    "shake hands": [
+        "141_23"
+    ],
+    "around the world high five low": [
+        "141_24"
+    ],
+    "slap hands, throw it back": [
+        "141_28"
+    ],
+    "random walk": [
+        "141_29",
+        "141_30"
+    ],
+    "walk sideways, cross legs": [
+        "141_32"
+    ],
+    "walk sideways, foot to foot": [
+        "141_33"
+    ],
+    "childish": [
+        "142_01"
+    ],
+    "clumsy": [
+        "142_02",
+        "142_03"
+    ],
+    "cool": [
+        "142_04"
+    ],
+    "depressed": [
+        "142_05"
+    ],
+    "elated": [
+        "142_06"
+    ],
+    "elderlyman": [
+        "142_07"
+    ],
+    "joy": [
+        "142_09"
+    ],
+    "lavish": [
+        "142_10"
+    ],
+    "painfulleftknee": [
+        "142_12"
+    ],
+    "relaxed": [
+        "142_13"
+    ],
+    "rushed": [
+        "142_14"
+    ],
+    "sexy": [
+        "142_18"
+    ],
+    "shy": [
+        "142_19"
+    ],
+    "singing in the rain jump": [
+        "142_20",
+        "142_21"
+    ],
+    "sneaky": [
+        "142_22"
+    ],
+    "run to stop": [
+        "143_02"
+    ],
+    "start to run": [
+        "143_03"
+    ],
+    "run figure 8": [
+        "143_04"
+    ],
+    "jumping distances": [
+        "143_05"
+    ],
+    "jumping heights": [
+        "143_06"
+    ],
+    "jumping sideways": [
+        "143_07"
+    ],
+    "jumping twists": [
+        "143_08",
+        "143_09"
+    ],
+    "walk and pick up tool box": [
+        "143_10"
+    ],
+    "walk and pick up box": [
+        "143_11"
+    ],
+    "walk and pick up toolbox": [
+        "143_12"
+    ],
+    "walk and pick up laundry basket": [
+        "143_13"
+    ],
+    "walk and step over": [
+        "143_14",
+        "143_15",
+        "143_16"
+    ],
+    "walk up stairs and over": [
+        "143_17"
+    ],
+    "sit down and get up": [
+        "143_18"
+    ],
+    "sit on stool and get up": [
+        "143_19"
+    ],
+    "catch and throw": [
+        "143_20"
+    ],
+    "catch and throw football": [
+        "143_22"
+    ],
+    "punching": [
+        "143_23"
+    ],
+    "kicking": [
+        "143_24"
+    ],
+    "waving": [
+        "143_25"
+    ],
+    "washing window": [
+        "143_26",
+        "143_27"
+    ],
+    "sweeping, push broom": [
+        "143_28"
+    ],
+    "pacing": [
+        "143_29"
+    ],
+    "chicken dance": [
+        "143_34"
+    ],
+    "macarena dance": [
+        "143_35"
+    ],
+    "airplane": [
+        "143_36"
+    ],
+    "climb up and down ladder": [
+        "143_37"
+    ],
+    "sneak": [
+        "143_41"
+    ],
+    "cartwheels001": [
+        "144_02"
+    ],
+    "figure8s": [
+        "144_03"
+    ],
+    "figure8s001": [
+        "144_04"
+    ],
+    "front_kicking": [
+        "144_05"
+    ],
+    "front_kicking001": [
+        "144_06"
+    ],
+    "left_blocks": [
+        "144_07"
+    ],
+    "left_blocks001": [
+        "144_08"
+    ],
+    "left_front_kicking": [
+        "144_09"
+    ],
+    "left_front_kicking001": [
+        "144_10"
+    ],
+    "left_lunges": [
+        "144_11"
+    ],
+    "left_lunges001": [
+        "144_12"
+    ],
+    "left_punch_sequence001": [
+        "144_13"
+    ],
+    "left_punch_sequence002": [
+        "144_14"
+    ],
+    "left_spin_reach001": [
+        "144_15"
+    ],
+    "left_spin_reach002": [
+        "144_16"
+    ],
+    "lunges": [
+        "144_17"
+    ],
+    "lunges001": [
+        "144_18"
+    ],
+    "punch_sequence": [
+        "144_20"
+    ],
+    "punch_sequence001": [
+        "144_21"
+    ],
+    "reach_left001": [
+        "144_22"
+    ],
+    "reach_left002": [
+        "144_23"
+    ],
+    "reach_right": [
+        "144_24"
+    ],
+    "reach_right001": [
+        "144_25"
+    ],
+    "right_blocks": [
+        "144_26"
+    ],
+    "right_blocks001": [
+        "144_27"
+    ],
+    "right_spin_reach": [
+        "144_28"
+    ],
+    "right_spin_reach001": [
+        "144_29"
+    ],
+    "sun salutation": [
+        "144_30"
+    ],
+    "sun salutation001": [
+        "144_31"
+    ],
+    "sun salutation002": [
+        "144_32"
+    ],
+    "walking001": [
+        "144_34"
+    ]
+}
